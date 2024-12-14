@@ -59,7 +59,7 @@ RegisterNumber:24009890
 
 **RTL LOGIC FOR FLIPFLOPS**
 ![329858014-ef046684-ef37-468c-b08e-73682bc0f632](https://github.com/user-attachments/assets/c33d3ed0-d1ea-4f27-9b73-a37c7655d1ef)
-**TIMING DIGRAMS FOR FLIP FLOPS**
+**TIMING DIAGRAMS FOR FLIP FLOPS**
 ![329858074-194f4200-062c-4c40-bc4b-2fffd65f3c88](https://github.com/user-attachments/assets/2a037748-783e-43c1-90e7-7dfaf6ed5caf)
 **RESULTS**
 **Thus the D flip flop has been implemented using verilog and its functionality is verified using their functional tables**
